@@ -1,4 +1,4 @@
-https://github.com/chuubaka07/posmotri-v-okno-ad 
+ https://github.com/chuubaka07/Posmotri-v-okno
 # Проект «Посмотри в окно»  
 **Учебный проект от Яндекс Практикума)**
 
